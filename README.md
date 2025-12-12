@@ -1,5 +1,4 @@
-Ariel University, School of Computer Science, 2026
-Introduction to Computer Science
+## Ariel University, School of Computer Science, 2026 Introduction to Computer Science Tutored by @boaz.benmoshe
 
 # Java Assignment Ex.0 - Goldbach Conjecture Variant
 
